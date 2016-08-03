@@ -39,3 +39,6 @@
 !/smartattributes/
 !/sqlauth/
 !/statistics/
+
+# track the StudOn module
+!/studon/
